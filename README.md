@@ -1,2 +1,2 @@
-# Sir-Java
+# CodeOfConduct
 code,eat, sleep, repeat
